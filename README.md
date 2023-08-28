@@ -1,6 +1,9 @@
 # Bestest TypeScript runner in Node
 
-Install:
+This is the sample code used for this blog post:
+[**ts-node vs. esrun vs. esno vs. bun**](https://www.peterbe.com/plog/ts-node-vs-esrun-vs-esno-vs-bun)
+
+## Install
 
 ```sh
 npm i -D typescript ts-node esno @digitak/esrun
