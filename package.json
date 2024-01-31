@@ -11,12 +11,13 @@
   "author": "@peterbe",
   "license": "ISC",
   "dependencies": {
-    "commander": "11.0.0"
+    "commander": "11.1.0"
   },
   "devDependencies": {
-    "@digitak/esrun": "3.2.24",
-    "esno": "0.17.0",
-    "ts-node": "10.9.1",
-    "typescript": "5.2.2"
+    "esno": "4.0.0",
+    "esrun": "3.2.26",
+    "ts-node": "10.9.2",
+    "tsx": "4.7.0",
+    "typescript": "5.3.3"
   }
 }
